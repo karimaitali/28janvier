@@ -1,0 +1,37 @@
+#container {
+  display: flex;
+  flex-wrap: wrap;
+
+}
+.haut {
+  height: 100px;
+}
+#blue{
+    background-color: blue;
+    float: left;
+    width: 200px;
+}
+#red{
+  margin-left: 2px;
+    background-color: red;
+    float: right;
+    width: 200px;
+}
+
+#green{
+  background-color: green;
+float: right;
+  width: 200px
+}
+
+#orange{
+  background-color: orange;
+  float: right;
+  width: 400px
+}
+
+#purple{
+  background-color: purple;
+  float: right;
+  width: 150px
+}
